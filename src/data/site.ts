@@ -40,8 +40,8 @@ export const siteConfig: SiteConfig = {
 
   music: {
     enabled: true,
-    title: "[INSERTAR CANCIÓN]",
-    artist: "[INSERTAR ARTISTA]",
+    title: "Mi amorcito",
+    artist: "Disney",
     src: "/audio/song.mp3",
   },
 
